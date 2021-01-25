@@ -1,7 +1,8 @@
 
 
-## [Data Visualization 1: Choropleth:](https://github.com/Jon-Lynch/DSC_465/blob/master/olympics.R)
-* created a choropleth of top Summer Olympic medal winning countries from 1976-2008
+## [Exploratory Data Analysis: KDE:](https://github.com/Jon-Lynch/DSC_478/blob/main/countries.ipynb)
+* performed an EDA of countries of the world data set
+* analyzed and compared distributions of selected subsets of dataset using KDE
 
 ![](/images/chloropleth.png)
 
