@@ -1,8 +1,10 @@
 
 
-## [Exploratory Data Analysis: KDE:](https://github.com/Jon-Lynch/DSC_478/blob/main/countries.ipynb)
-* performed an EDA of countries of the world data set
-* analyzed and compared distributions of selected subsets of dataset using KDE
+## [Exploratory Data Analysis: KDE, LSR:](https://github.com/Jon-Lynch/DSC_478/blob/main/countries.ipynb)
+* Performed an EDA of countries of the world data set
+* Compared and analyzed distributions of selected subsets of dataset using Kernel Density Estimation
+* Correlations analysis
+* Least Squares Regression model to predict GDP per capita
 
 ![](/images/KDE.png)
 
