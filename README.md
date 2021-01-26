@@ -13,4 +13,4 @@
 * Created a treemap, stacked bar graph, choropleth, and small multiples dodged bar graph 
 * created [animated visualization](https://rpubs.com/jlynch333/687835) of top 6 countries...
 
-![](/images/chloropleth.png)
+![](/images/choropleth.png)
