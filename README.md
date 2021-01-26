@@ -4,7 +4,7 @@
 * Performed an exploratory data analysis of countries of the world data set
 * Analyzed distributions of data subsets using Kernel Density Estimation (KDE)
 * Utilized a correlation matrix heatmap and scatter plots to evaluate correlations
-* Developed and tuned linear regression and random forest regression models to predict GDP
+* Developed and tuned linear regression and random forest regression models to predict GDP per capita
 
 ![](/images/KDE.png)
 
