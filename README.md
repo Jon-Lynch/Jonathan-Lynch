@@ -9,6 +9,6 @@
 ![](/images/KDE.png)
 
 ## [Data Visualization: HTML link:](https://github.com/Jon-Lynch/DSC_465/blob/main/Final_Project.pdf)
-* created bar graph of top 10 medal winning athletes at Summer Olympics from 1976-2008
+* created [animated visualization](https://rpubs.com/jlynch333/687835) of top 6 countries...
 
 ![](/images/chloropleth.png)
