@@ -1,6 +1,6 @@
 
 
-## [EDA & Regression Modeling:](https://github.com/Jon-Lynch/DSC_478/blob/main/countries.ipynb)
+## [EDA & Regression Modeling:](/images/countries.html)
 * Performed an exploratory data analysis (EDA) of countries of the world data set
 * Analyzed distributions of data subsets using Kernel Density Estimation (KDE)
 * Utilized a correlation matrix heatmap and scatter plots to evaluate correlations
