@@ -8,7 +8,7 @@
 
 ![](/images/KDE.png)
 
-## [Data Visualization:](https://github.com/Jon-Lynch/DSC_465/blob/main/Final_Project.pdf)
+## [Data Visualization:](/images/Final_Project.html)
 * Told a compelling story through visualizations using Olympic medals data set
 * Created a treemap, stacked bar and small multiples dodged bar graphs, & choropleth 
 * Designed an [animated visualization](https://rpubs.com/jlynch333/687835) of the total medals won over time for top six countries
