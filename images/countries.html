@@ -14259,7 +14259,7 @@ a.anchor-link {
 
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Countries-of-the-World---EDA">Countries of the World - EDA<a class="anchor-link" href="#Countries-of-the-World---EDA">&#182;</a></h2>
+<h2 id="Countries-of-the-World---Exploratory-Data-Analysis-&amp;-Regression-Modeling">Countries of the World - Exploratory Data Analysis &amp; Regression Modeling<a class="anchor-link" href="#Countries-of-the-World---Exploratory-Data-Analysis-&amp;-Regression-Modeling">&#182;</a></h2>
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
@@ -14270,7 +14270,7 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>This is an exploratory data analysis (EDA) of the Countries of the World dataset found on Kaggle at: <a href="https://www.kaggle.com/fernandol/countries-of-the-world">https://www.kaggle.com/fernandol/countries-of-the-world</a>. The goal is to better understand the dataset by exploring key relationships between variables through visualization, focusing specifically on GDP per capita.  It concludes with constructing a linear regression model and a random forest regression model to predict GDP per capita.</p>
+<p>This is an exploratory data analysis (EDA) of the Countries of the World dataset found on Kaggle at: <a href="https://www.kaggle.com/fernandol/countries-of-the-world">https://www.kaggle.com/fernandol/countries-of-the-world</a>. The goal is to better understand the dataset by exploring key relationships between variables through visualization, focusing specifically on GDP per capita.  It concludes with constructing, and modifying multiple linear regression models, as well as creating a random forest regression model to predict GDP per capita.</p>
 
 </div>
 </div>
@@ -14282,7 +14282,7 @@ a.anchor-link {
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[2]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[1]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
@@ -14327,7 +14327,7 @@ a.anchor-link {
 <div class="jp-OutputArea-child">
 
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[2]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[1]:</div>
 
 
 
@@ -14916,7 +14916,7 @@ dtype: int64
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><strong>Show the distribution of categorical region variable:</strong></p>
+<p><strong>Show the value counts of the categorical region variable:</strong></p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
@@ -14971,7 +14971,7 @@ dtype: int64
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>The above bar plot shows the number of countries that belong to each region. Clearly, Sub-Saharan Africa is the region of the world with the greatest number of countries.</p>
+<p>The above bar plot shows the number of countries that belong to each region. Clearly, Sub-Saharan Africa is the region of the world with the greatest number of countries. The Baltics has the fewest nations.</p>
 
 </div>
 </div>
@@ -15228,13 +15228,19 @@ dtype: int64
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>The above descriptive statistics show the mean, median, and standard deviations for each numeric attribute, as well as the minimum, maximum, and first quartile (Q1/25th percentile) and third quartile (Q3/75th percentile).</p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p><strong>Examine the descriptive statistics of a few of the numerical variables by region (Africa &amp; Europe):</strong></p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[8]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[10]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">data</span><span class="o">.</span><span class="n">region</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">region</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
@@ -15454,7 +15460,7 @@ max     0.393000   0.672000
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>The above descriptive statistics of the numerical variables of countries subset by the region of the world they belong to shows the mean, median, and standard deviations for each attribute, as well as the minimum, maximum, and first quartile (Q1/25th percentile) and third quartile (Q3/75th percentile).  Some of the more interesting statistics to compare by region are GDP (per capita), literacy rates, infant mortality, and the extent to which each region's economy is based on agriculture versus service.  Wealthier regions tend to have higher literacy rates, more citizens with phones, lower infant mortality, and a larger percentage of their economy based on services as opposed to agriculture.</p>
+<p>The above descriptive statistics of the numerical variables of countries subset by the region of the world they belong to shows the mean, median, and standard deviations for each attribute, as well as the minimum, maximum, and first quartile (Q1/25th percentile) and third quartile (Q3/75th percentile).  Some of the more interesting statistics to compare by region are GDP (per capita), literacy rates, infant mortality, birth rate and death rate, and the extent to which each region's economy is based on agriculture versus service.  Wealthier regions tend to have higher literacy rates, lower infant mortality, lower birth rates, and a larger percentage of their economy based on services as opposed to agriculture.</p>
 
 </div>
 </div>
