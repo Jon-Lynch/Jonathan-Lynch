@@ -6,7 +6,7 @@
 * Utilized a correlation matrix heatmap and scatter plots to evaluate correlations
 * Developed linear regression and random forest regression models to predict GDP per capita
 
-![](/images/KDE.png)
+![](/images/kde.png)
 
 ## [Data Visualization:](/images/Final_Project.html)
 * Told a compelling story through visualizations using Olympic medals data set
