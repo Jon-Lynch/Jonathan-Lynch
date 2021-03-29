@@ -21,4 +21,4 @@
 * Tuned individual model hyperparameters utilizing grid searches
 * Compared models using Receiver Operating Characteristic (ROC) curves
 
-![](/images/KDE.png)
+![](/images/roc.png)
