@@ -14,3 +14,11 @@
 * Designed an [animated visualization](https://rpubs.com/jlynch333/687835) of the total medals won over time for top six countries
 
 ![](/images/choropleth.png)
+
+## [Classification Modeling:](/images/countries.html)
+* Performed preliminary exploration of hotel booking demand data set
+* Constructed Multinomial Naive Bayes, KNN, SVM, & Random Forest classifcation models
+* Tuned individual model hyperparameters utilizing grid searches
+* Compared all four models through ROC curves graph
+
+![](/images/KDE.png)
