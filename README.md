@@ -23,8 +23,8 @@
 
 ![](/images/roc.png)
 
-## [Time Series Analysis with Neural Nets:](/images/time_series_notebook_Jonathan_Lynch.html)
+## [Time Series Forecasting with Neural Nets:](/images/time_series_notebook_Jonathan_Lynch.html)
 * Engineered new features and performed an exploratory data analysis
 * Designed a function to transform data into proper format for TensorFlow Keras
 * Constructed a baseline LSTM model and a Bidirectional LSTM model
-* Combined convolutional and recurrent neural network layers to create model 
+* Combined a CNN with a recurrent network to create model 
