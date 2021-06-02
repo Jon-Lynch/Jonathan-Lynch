@@ -23,4 +23,4 @@
 
 ![](/images/roc.png)
 
-## [Time Series Analysis with Neural Nets:]
+## [Time Series Analysis with Neural Networks:](/images/time_series_notebook_Jonathan_Lynch.html)
