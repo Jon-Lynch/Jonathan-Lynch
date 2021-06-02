@@ -27,4 +27,6 @@
 * Engineered new features and performed an exploratory data analysis
 * Designed a function to transform data into proper format for TensorFlow Keras
 * Constructed a baseline LSTM model and a Bidirectional LSTM model
-* Combined a CNN with a recurrent network to create model 
+* Combined a CNN with a recurrent network to create model
+
+![](/images/traffic_volume.png)
