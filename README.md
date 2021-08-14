@@ -8,13 +8,6 @@
 
 ![](/images/kde.png)
 
-## [Data Visualization:](/images/Final_Project.html)
-* Told a compelling story through visualizations using Olympic medals data set
-* Created a treemap, stacked bar and small multiples dodged bar graphs, & choropleth 
-* Designed an [animated visualization](https://jon-lynch.github.io/Jonathan_Lynch/images/animation.html) of the total medals won over time for top six countries
-
-![](/images/choropleth.png)
-
 ## [Classification Modeling:](/images/hotels.html)
 * Performed a preliminary exploration of hotel booking demand data set
 * Constructed Multinomial Naive Bayes, KNN, SVM, & Random Forest classifiers
@@ -22,6 +15,13 @@
 * Compared models using Receiver Operating Characteristic (ROC) curves
 
 ![](/images/roc.png)
+
+## [Data Visualization:](/images/Final_Project.html)
+* Told a compelling story through visualizations using Olympic medals data set
+* Created a treemap, stacked bar and small multiples dodged bar graphs, & choropleth 
+* Designed an [animated visualization](https://jon-lynch.github.io/Jonathan_Lynch/images/animation.html) of the total medals won over time for top six countries
+
+![](/images/choropleth.png)
 
 ## [Time Series Forecasting with RNNs:](/images/time_series_notebook_Jonathan_Lynch.html)
 * Engineered new features and performed an exploratory data analysis
