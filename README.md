@@ -33,6 +33,6 @@
 
 ## [BI Dashboards:](/images/overview.html)
 * Redeveloped Chicago Police Department (CPD) dashboards for the Center of Information Technology & Analytics (CITA) at the Office of Inspector General
-* Designed a CPD Overview dashboard & animated dashboard of CPD Members by District
+* Designed an animated dashboard of CPD Members by District
 
 
