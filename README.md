@@ -36,6 +36,6 @@
 * Created a dashboard of [CPD Members by Unit and Title](https://jon-lynch.github.io/Jonathan_Lynch/images/unit_title.html)
 * Designed an animated dashboard of [CPD Members by District](https://jon-lynch.github.io/Jonathan_Lynch/images/animated_map.html)
 
-![](/images/map__bar.png)
+![](/images/map_barII.png)
 
 
