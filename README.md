@@ -11,7 +11,7 @@
 ## [Data Visualization:](/images/Final_Project.html)
 * Told a compelling story through visualizations using Olympic medals data set
 * Created a treemap, stacked bar and small multiples dodged bar graphs, & choropleth 
-* Designed an [animated visualization](https://rpubs.com/jlynch333/687835) of the total medals won over time for top six countries
+* Designed an [animated visualization](https://jon-lynch.github.io/Jonathan_Lynch/images/animation.Rmd) of the total medals won over time for top six countries
 
 ![](/images/choropleth.png)
 
