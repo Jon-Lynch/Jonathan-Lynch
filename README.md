@@ -32,7 +32,7 @@
 ![](/images/traffic_volume.png)
 
 ## [Tableau Dashboards:](/images/overview.html)
-* Redeveloped Chicago Police Department (CPD) dashboards for the Center for Information Technology & Analytics (CITA) at the City of Chicago Office of Inspector General
+* Redeveloped Chicago Police Department (CPD) dashboards for the Center for Information Technology & Analytics (CITA) at the Office of Inspector General
 * Created a dashboard of CPD Members by Unit and Title
 * Designed an animated dashboard of [CPD Members by District](https://jon-lynch.github.io/Jonathan_Lynch/images/animated_map.html)
 
