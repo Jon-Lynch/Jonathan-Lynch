@@ -13,7 +13,7 @@
 * Created a treemap, stacked bar and small multiples dodged bar graphs, & choropleth 
 * Designed an [animated visualization](https://jon-lynch.github.io/Jonathan_Lynch/images/animation.html) of the total medals won over time for top six countries
 
-![](/images/choropleth.png)
+![](/images/barplot.png)
 
 ## [Classification Modeling:](/images/hotels.html)
 * Performed a preliminary exploration of hotel booking demand data set
