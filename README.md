@@ -31,8 +31,8 @@
 
 ![](/images/traffic_volume.png)
 
-## [Dashboards:](/images/overview.html)
-* Engineered new features and performed an exploratory data analysis
+## [Tableau Dashboards:](/images/overview.html)
+* Redeveloped Chicago Police Department dashboards for the Center of Information Technology & Analytics (CITA) at the Office of Inspector General
 *
 
-![](/images/traffic_volume.png)
+
