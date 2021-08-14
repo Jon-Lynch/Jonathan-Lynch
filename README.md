@@ -7,7 +7,7 @@
 * Developed linear regression and random forest regression models to predict GDP per capita
 
 ![](/images/kde.png)
-\
+<br>
 
 ## [Classification Modeling:](/images/hotels.html)
 * Performed a preliminary exploration of hotel booking demand data set
@@ -16,7 +16,7 @@
 * Compared models using Receiver Operating Characteristic (ROC) curves
 
 ![](/images/roc.png)
-\
+<br>
 
 ## [Data Visualization:](/images/Final_Project.html)
 * Told a compelling story through visualizations using Olympic medals data set
@@ -24,7 +24,7 @@
 * Designed an [animated visualization](https://jon-lynch.github.io/Jonathan_Lynch/images/animation.html) of the total medals won over time for top six countries
 
 ![](/images/choropleth.png)
-\
+<br>
 
 ## [Time Series Forecasting with RNNs:](/images/time_series_notebook_Jonathan_Lynch.html)
 * Engineered new features and performed an exploratory data analysis
@@ -33,7 +33,7 @@
 * Combined a CNN with a recurrent network to create model
 
 ![](/images/traffic_volume.png)
-\
+<br>
 
 ## [Tableau Dashboards:](/images/overview.html)
 * Developed Chicago Police Department (CPD) dashboards for the Center for Information Technology & Analytics (CITA) at the Office of Inspector General
