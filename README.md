@@ -23,7 +23,7 @@
 
 ![](/images/roc.png)
 
-## [Neural Networks:](/images/time_series_notebook_Jonathan_Lynch.html)
+## [Time Series Forecasting with RNNs:](/images/time_series_notebook_Jonathan_Lynch.html)
 * Engineered new features and performed an exploratory data analysis
 * Designed a function to transform data into proper format for TensorFlow Keras
 * Constructed a baseline LSTM model and a Bidirectional LSTM model
@@ -31,7 +31,7 @@
 
 ![](/images/traffic_volume.png)
 
-## [BI Dashboards:](/images/overview.html)
+## [Tableau Dashboards:](/images/overview.html)
 * Redeveloped Chicago Police Department (CPD) dashboards for the Center of Information Technology & Analytics (CITA) at the Office of Inspector General
 * Designed an animated dashboard of [CPD Members by District](https://jon-lynch.github.io/Jonathan_Lynch/images/animated_map.html)
 
