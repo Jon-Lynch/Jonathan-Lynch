@@ -8,6 +8,7 @@
 
 ![](/images/kde.png)
 
+
 ## [Classification Modeling:](/images/hotels.html)
 * Performed a preliminary exploration of hotel booking demand data set
 * Constructed Multinomial Naive Bayes, KNN, SVM, & Random Forest classifiers
@@ -16,12 +17,14 @@
 
 ![](/images/roc.png)
 
+
 ## [Data Visualization:](/images/Final_Project.html)
 * Told a compelling story through visualizations using Olympic medals data set
 * Created a treemap, stacked bar and small multiples dodged bar graphs, & choropleth 
 * Designed an [animated visualization](https://jon-lynch.github.io/Jonathan_Lynch/images/animation.html) of the total medals won over time for top six countries
 
 ![](/images/choropleth.png)
+
 
 ## [Time Series Forecasting with RNNs:](/images/time_series_notebook_Jonathan_Lynch.html)
 * Engineered new features and performed an exploratory data analysis
@@ -31,11 +34,13 @@
 
 ![](/images/traffic_volume.png)
 
+
 ## [Tableau Dashboards:](/images/overview.html)
 * Developed Chicago Police Department (CPD) dashboards for the Center for Information Technology & Analytics (CITA) at the Office of Inspector General
 * Created a dashboard of [CPD Members by Unit and Title](https://jon-lynch.github.io/Jonathan_Lynch/images/unit_title.html)
 * Designed an animated dashboard of [CPD Members by District](https://jon-lynch.github.io/Jonathan_Lynch/images/animated_map.html)
 
 ![](/images/map_barII.png)
+
 
 
