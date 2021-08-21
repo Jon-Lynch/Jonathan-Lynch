@@ -38,8 +38,8 @@
 ## [Tableau Dashboards:](/images/overview.html)
 * Developed Chicago Police Department (CPD) dashboards for the Center for Information Technology & Analytics (CITA) at the Office of Inspector General
 * Created a dashboard of [CPD Members by Unit and Title](https://jon-lynch.github.io/Jonathan_Lynch/images/unit_title.html)
-* Constructed a dashboard of [CPD Members by Unit Over Time](https://jon-lynch.github.io/Jonathan_Lynch/images/units_over_time.html)
-* Designed an animated dashboard of [CPD Members by District](https://jon-lynch.github.io/Jonathan_Lynch/images/animated_map.html)
+* Designed a dashboard of [CPD Members by Unit Over Time](https://jon-lynch.github.io/Jonathan_Lynch/images/units_over_time.html)
+* Constructed an animated dashboard of [CPD Members by District](https://jon-lynch.github.io/Jonathan_Lynch/images/animated_map.html)
 
 ![](/images/map_barX.png)
 
