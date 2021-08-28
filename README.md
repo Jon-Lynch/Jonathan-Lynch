@@ -6,7 +6,7 @@
 * Utilized a correlation matrix heatmap and scatter plots to evaluate correlations
 * Developed linear regression and random forest regression models to predict GDP per capita
 
-![](/images/kde.png)
+![](/images/testing.png)
 <br>
 
 ## [Classification Modeling:](/images/hotels.html)
