@@ -15,7 +15,7 @@
 * Tuned individual model hyperparameters utilizing grid searches
 * Compared models using Receiver Operating Characteristic (ROC) curves
 
-![](/images/testing.png)
+![](/images/roc.png)
 <br>
 
 ## [Data Visualization:](/images/Final_Project.html)
