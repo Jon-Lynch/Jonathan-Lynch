@@ -9,7 +9,7 @@
 ![](/images/kde.png)
 <br>
 
-## [Classification Modeling:](/images/hotels.html)
+## [Classification Modeling:](/images/hotels2.html)
 * Performed a preliminary exploration of hotel booking demand data set
 * Constructed Multinomial Naive Bayes, KNN, SVM, & Random Forest classifiers
 * Tuned individual model hyperparameters utilizing grid searches
